@@ -1,0 +1,3 @@
+name: SquidLimiter
+main: net.sacredlabyrinth.phaed.SquidLimiter.SquidLimiter
+version: 1.0
